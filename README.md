@@ -1,1 +1,1 @@
-# design is belongs to JavaScript Mastery on Youtube! Codes belongs to me..
+# design is belongs to JavaScript Mastery on Youtube! Codes belong to me..
